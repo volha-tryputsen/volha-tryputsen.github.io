@@ -1,13 +1,23 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Volha Tryputsen"
   right:
-    - text: "About"
-      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Software"  
+      href: software.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<volha.tryputsen@gmail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/volha-tryputsen/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/volha-tryputsen-66566839/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/volha_tryputsen
+    
 output:
-  html_document
+  html_document:
+    theme: flatly

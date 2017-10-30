@@ -1,7 +1,7 @@
 ---
-title: "Holy cow!"
+title: "Volha Tryputsen"
 ---
 
-### I have a webpage!
+### Welcome!
+<img src="volha_tryputsen_headshot_2017.jpg" style="width:50%">
 
-And I can put all kinds of stuff on it!
