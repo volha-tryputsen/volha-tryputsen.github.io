@@ -4,7 +4,7 @@
 
 <br>
 
-* [**Antibody Characterization with Next Generation Sequencing (NGS) Using GroupMyAbs Shiny Application.**](GroupMyAbs_final.pdf)
+* [**Antibody Characterization with Next Generation Sequencing (NGS) Using GroupMyAbs Shiny Application.**](GroupMyAbs_final.pdf)  
 Volha Tryputsen, Jocelyn Sendecki, Mark Tornetta.  
 _Janssen Quantitative Sciences Annual Conference_ (poster, 2017)
 
