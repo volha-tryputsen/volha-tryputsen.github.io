@@ -1,3 +1,11 @@
----
-title: "My publications"
----
+<br>
+
+## Publications
+
+<br>
+
+1. Volha Tryputsen, Allitia DiBernardo, Mahesh Samtani, Gerald P Novak, Vaibhav A Narayan, Nandini Raghavan: Optimizing Regions-of-Interest Composites for Capturing Treatment Effects on Brain Amyloid in Clinical Trials. Journal of Alzheimer's disease: JAD 08/2014; 9(4). DOI:10.3233/JAD-131979
+
+2. Leah Aluisio, Ian Fraser, Tamara Berdyyeva, Volha Tryputsen, Brock Thomas Shireman, James Shoblock, Timothy Lovenberg, Christine Dugovic, Pascal Bonaventure: Pharmacological or genetic orexin1 receptor inhibition attenuates MK-801 induced glutamate release in mouse cortex. Frontiers in Neuroscience 05/2014; 8(8). DOI:10.3389/fnins.2014.00107
+
+3. Volha Tryputsen, Javier Cabrera, An De Bondt, Dhammika Amaratunga: Using Fisher's Method to Identify Enriched Gene Sets. Statistics in Biopharmaceutical Research 05/2014; 6(2). DOI:10.1080/19466315.2014.888013

@@ -5,10 +5,14 @@ navbar:
   right:
     - text: "Research"
       href: research.html
+    - text: "Presentaions"
+      href: presentations.html
     - text: "Publications"
       href: publications.html
     - text: "Software"  
       href: software.html
+    - text: "Other Prof Activities"  
+      href: other_prof_activities.html
     - icon: fa-envelope fa-lg
       href: mailto:<volha.tryputsen@gmail.com>
     - icon: fa-github fa-lg
