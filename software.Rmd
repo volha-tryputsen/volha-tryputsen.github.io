@@ -5,7 +5,7 @@
 <br>
 
 ### I love [Shiny](https://shiny.rstudio.com/)!  
-If there is an opportunity to create a shiny app, I make sure it lands in my backyard. I recently developed several complex shiny applications, including but not limited to:
+If there is an opportunity to create a shiny app, I make sure it lands in my backyard. I recently developed several complex shiny applications. Here is a couple for some flavor:  
 
 1. [Next Generation Sequencing (NGS) shiny application](GroupMyAbs_final.pdf) ( _GroupMyAbs_ ) – facilitates the use of state-of-the-art high throughput NGS data at early stages of large molecular drug discovery and enables antibody characterization in mathematically-driven manner, and as such decreases bias in decision making during the hit-to-lead stage of large molecular drug discovery. 
 
