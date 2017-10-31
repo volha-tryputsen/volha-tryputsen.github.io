@@ -4,25 +4,25 @@
 
 <br>
 
-1. **A Shiny App for Epitope Binning Analyses: High Throughput Analyses Made Easy.**   
+* **A Shiny App for Epitope Binning Analyses: High Throughput Analyses Made Easy.**   
 Volha Tryputsen, Jocelyn Sendecki, Robin Ernst, Sanjib Dutta, Joseph Bourghol, Annmarie Winkis, Fang Yi.  
 _Janssen Biologics Research Innovation & Technology (BRITE) symposium_ (poster, 2017).  
 
-2. **Optimizing Regions-of-Interest Composites for Capturing Treatment Effects on Brain Amyloid in Clinical Trials.**   
+* **Optimizing Regions-of-Interest Composites for Capturing Treatment Effects on Brain Amyloid in Clinical Trials.**   
 Volha Tryputsen, Nandini Raghavan, Allitia DiBernardo.  
 _Joint Statistical Meeting_ (contributed papers speaker, 2016).  
 _FDA Industry Statistics Workshop_ (talk, 2014)  
 _Alzheimer`s Association International Conference_ (poster, 2013)
 
-3. [**Development of a Serum Biomarker Panel to Predict Imminent Risk of Multiple Myeloma Progresssion.**](http://www.bloodjournal.org/content/122/21/3115?sso-checked=true)  
+* [**Development of a Serum Biomarker Panel to Predict Imminent Risk of Multiple Myeloma Progresssion.**](http://www.bloodjournal.org/content/122/21/3115?sso-checked=true)  
 A. K. Sasser, T. Casneuf, V. Tryputsen, J. Werbeck, S. Kumar, S. V. Rajkumar, B. Hall. 
 _American Society of Hematology Annual Meeting_ (poster, 2013)
 
-4. [**On the Selection of Cognitive and Functional Markers of Brain Volume and Atrophy**](http://www.alzheimersanddementia.com/article/S1552-5260(13)02272-3/abstract)  
+* [**On the Selection of Cognitive and Functional Markers of Brain Volume and Atrophy**](http://www.alzheimersanddementia.com/article/S1552-5260(13)02272-3/abstract)  
 Eric Yang, Nandini Raghavan, Volha Tryputsen, Michael Farnum, Victor Lobanov, Tim Schultz, Rudi Verbeeck, Mahesh N. Samtani, Gerald Novak, Vaibhav Narayan.  
 _Alzheimer`s Association International Conference_ (poster, 2013)
 
-5. **Using Fisher`s Method to Identify Enriched Gene Sets**
+* **Using Fisher`s Method to Identify Enriched Gene Sets**
 Volha Tryputsen, Javier Cabrera, An De Bond, Dhammika Amaratunga  
 _International Chinese Statistical Association Symposium_ (talk, 2012)  
 
