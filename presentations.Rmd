@@ -4,9 +4,14 @@
 
 <br>
 
-* **A Shiny App for Epitope Binning Analyses: High Throughput Analyses Made Easy.**   
+* [**Antibody Characterization with Next Generation Sequencing (NGS) Using GroupMyAbs Shiny Application.**](GroupMyAbs_final.pdf)
+Volha Tryputsen, Jocelyn Sendecki, Mark Tornetta.  
+_Janssen Quantitative Sciences Annual Conference_ (poster, 2017)
+
+* [**A Shiny App for Epitope Binning Analyses: High Throughput Analyses Made Easy.**](EpitopeBinning_Shiny_BRITE_poster_final.pdf)   
 Volha Tryputsen, Jocelyn Sendecki, Robin Ernst, Sanjib Dutta, Joseph Bourghol, Annmarie Winkis, Fang Yi.  
-_Janssen Biologics Research Innovation & Technology (BRITE) symposium_ (poster, 2017).  
+_Janssen Quantitative Sciences Annual Conference_ (poster, 2017)  
+_Janssen Biologics Research Innovation & Technology (BRITE) symposium_ (poster, 2016)  
 
 * **Optimizing Regions-of-Interest Composites for Capturing Treatment Effects on Brain Amyloid in Clinical Trials.**   
 Volha Tryputsen, Nandini Raghavan, Allitia DiBernardo.  
