@@ -13,7 +13,7 @@ Volha Tryputsen, Jocelyn Sendecki, Robin Ernst, Sanjib Dutta, Joseph Bourghol, A
 _Janssen Quantitative Sciences Annual Conference_ (poster, 2017)  
 _Janssen Biologics Research Innovation & Technology (BRITE) symposium_ (poster, 2016)  
 
-* **Optimizing Regions-of-Interest Composites for Capturing Treatment Effects on Brain Amyloid in Clinical Trials.**   
+* [**Optimizing Regions-of-Interest Composites for Capturing Treatment Effects on Brain Amyloid in Clinical Trials.**](imaging_biomarker_jsm_2014.pdf)   
 Volha Tryputsen, Nandini Raghavan, Allitia DiBernardo.  
 _Joint Statistical Meeting_ (contributed papers speaker, 2016).  
 _FDA Industry Statistics Workshop_ (talk, 2014)  
@@ -27,7 +27,7 @@ _American Society of Hematology Annual Meeting_ (poster, 2013)
 Eric Yang, Nandini Raghavan, Volha Tryputsen, Michael Farnum, Victor Lobanov, Tim Schultz, Rudi Verbeeck, Mahesh N. Samtani, Gerald Novak, Vaibhav Narayan.  
 _Alzheimer`s Association International Conference_ (poster, 2013)
 
-* **Using Fisher`s Method to Identify Enriched Gene Sets**
+* [**Using Fisher`s Method to Identify Enriched Gene Sets**](fishers_method_icsa_2012.pdf)
 Volha Tryputsen, Javier Cabrera, An De Bond, Dhammika Amaratunga  
 _International Chinese Statistical Association Symposium_ (talk, 2012)  
 
