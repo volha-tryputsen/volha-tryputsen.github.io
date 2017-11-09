@@ -6,15 +6,16 @@
 ### "In God we trust, all others must bring data"
 * I am inspired by current scientific questions rising in pharmaceutical industry around drug discovery and development.  
 * I have been heavily involved in *biomarker research*, supporting Janssen`s World Without Disease vision in Neurocience and Oncology.  
-* *Data mining* and *vizualization* have been something I am trully passionate about.  
+* *Data/text mining*, *vizualization* and *shiny apps* have been something I am trully passionate about.  
 * I embrace big chalenges of *big data* and enjoy analyzing complex datasets coming out of *new technologies*.  
 * I am fascinated with *genomics* and had contributed to advancing *gene set analysis* methodology. I am a strong beliver that genome design is going to be a key part of the future, and I have been waiting impatiently to voyage through my whole genome sequencing data - it is coming soon!    
 
 ### My data scientist toolbox includes:  
 * superb _R_ programming skills,  
-* strong knowledge and implementaion of _reproducable research_, 
 * [_tidyverse_](https://www.tidyverse.org/) <3,  
-* *Shiny applications* development and deployment,  
+* *Shiny applications* and *dashboards* development and deployment,  
+* *omics* data, *text mining*, scraping *web* data, along with other data types, 
+* strong knowledge and implementaion of _reproducable research_ and _project collaboration_, 
 * *web-site development*.  
 
 
