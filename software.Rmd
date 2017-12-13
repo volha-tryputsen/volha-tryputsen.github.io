@@ -5,8 +5,12 @@
 <br>
 
 ### I love [Shiny](https://shiny.rstudio.com/)!  
-If there is an opportunity to create a shiny app, I make sure it lands in my backyard. I recently developed several complex shiny applications. Below are the latest two favorite of mine:  
+If there is an opportunity to create a shiny app, I make sure it lands in my backyard. I recently developed several complex shiny applications. Below are the latest favorite of mine:  
 
 * [Next Generation Sequencing (NGS) shiny application](GroupMyAbs_final.pdf) ( _GroupMyAbs_ ) – facilitates the use of state-of-the-art high throughput NGS data at early stages of large molecular drug discovery and enables antibody characterization in mathematically-driven manner, and as such decreases bias in decision making during the hit-to-lead stage of large molecular drug discovery. 
 
 * Longitudinal data analysis shiny application ( _invivolda_ ) – allows streamlining complex statistical analyses for oncology in-vivo studies, conducted during early phases of drug discovery, taking efficient, multifaceted and reproducible approach. 
+
+* [Instacart Top Selling Products](https://volha-tryputsen.github.io/p8105_hw6_vt2263/) - utilizes [flexdashboard](https://volha-tryputsen.github.io/p8105_hw6_vt2263/flex_dashboard.html) and [shiny dashboard](https://volha-tryputsen.shinyapps.io/shiny_dashboard/) to perform interactive exploratory analysis of Instacart data.  
+
+* [Alzheimer`s Disease dashboard](https://ijeasthausen.github.io/website/index.html) - was created by a team of Biostatistics Students at Columbia University and allows a user to visualiz geo location, age eligibility, enrollment and duration of Alzheimers Disease US-based clinical trials.  
